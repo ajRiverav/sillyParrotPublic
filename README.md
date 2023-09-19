@@ -4,9 +4,9 @@ Introducing Silly Parrot - your child's new feathery friend! Designed with kids 
 
 Features:
 
-- Interactive Voice Mimicry: Speak to Silly Parrot and hear it repeat your words.
-- Safe & Private: We value your child's safety. Silly Parrot works offline, ensuring no voice data is ever sent or stored.
-- Endless Fun: Perfect for keeping kids entertained, enhancing vocabulary, and promoting interactive play.
+- Interactive Voice Mimicry: Speak to Silly Parrot and hear it repeat your words.  
+- Safe & Private: We value your child's safety. Silly Parrot works offline, ensuring no voice data is ever sent or stored.  
+- Endless Fun: Perfect for keeping kids entertained, enhancing vocabulary, and promoting interactive play.  
 
 ## Support
 Contact aj dot rivera at jhu dot edu
